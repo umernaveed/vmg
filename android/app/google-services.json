@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "56503226726",
+    "project_id": "weshipfast-2fbb1",
+    "storage_bucket": "weshipfast-2fbb1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56503226726:android:489425add3f95f3a78f8a7",
+        "android_client_info": {
+          "package_name": "com.wishipfaas.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxqLlrGW0Wn11KMfkqHpCOfnbJpIxlYL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
